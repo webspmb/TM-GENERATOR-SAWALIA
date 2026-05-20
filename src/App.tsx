@@ -56,7 +56,7 @@ export default function App() {
             />
           </div>
           <div>
-            <h1 className="text-lg font-bold text-white leading-tight">SD NEGERI SUMOLI</h1>
+            <h1 className="text-lg font-bold text-white leading-tight">SD NEGERI 11 RATOLINDO</h1>
             <p className="text-[10px] text-mint-200 uppercase tracking-widest font-bold">TM Generator PRO Edition</p>
           </div>
         </div>
